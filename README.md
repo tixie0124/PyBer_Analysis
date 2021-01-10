@@ -11,3 +11,4 @@ Urban cities have the highest overall rides, drivers count and largest overall f
 2.Rural cities have the lowest total volume but highest average fare, therefore, increasing the voule in rural cities may help to increase the overall profitability of the company.
 
 3.The graph below indicates that, on average, the total fare in Jan in 2019 is the lowest among the first quarter. Some measures can be implemented to help boost the total fares earned in January. There is also a drop in total fares in March for all three cities types. Further investigation is necessary to indicate the reason for such a drop.
+https://github.com/tixie0124/PyBer_Analysis/issues/1#issue-782897399
